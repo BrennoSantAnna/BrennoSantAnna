@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>  <p>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>  <p>
     I am a <strong>Computer Science</strong> student and currently work in the field of <strong>Information Technology</strong>, proving technical support and contributing to the migration of corporate systems.
     I am interested in working in <strong>Technical Support</strong>, <strong>Network Administration</strong>, and <strong>IT Infrastructure</strong>, building a solid foundation to pursue a career in <strong>Cybersecurity</strong> in the future.
     <br/>
@@ -50,12 +50,11 @@ I create Python automations for log parsing, IOC extraction, and basic threat in
 ---
 
 ### 🧪 Security Projects
+- 🔸 **[Python File Integrity Checker](https://github.com/BrennoSantAnna/python-file-integrity-checker)** – SHA-256 tool for basic file integrity checking.
 <!--
-- 🔸 **[Password Strength Checker]()** – Python tool for evaluating password robustness.
 - 🔸 **[Basic Port Scanner]()** – Socket-based scanner for learning network fundamentals.
 - 🔸 **[Network Defense Labs]()** – Packet captures, analysis notes, and event triage exercises.
 -->
-- Coming soon
 ---
 
 ### 📊 My GitHub Stats
