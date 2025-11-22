@@ -51,7 +51,7 @@ I create Python automations for log parsing, IOC extraction, and basic threat in
 
 ### 🧪 Security Projects
 - 🔸 **[Python File Integrity Checker](https://github.com/BrennoSantAnna/python-file-integrity-checker)** – SHA-256 tool for basic file integrity checking.
-- 🔸 **[Python TCP SYN Port Scanner](https://github.com/BrennoSantAnna/python-port-scanning)** – CLI tool for discrete network reconnaissance via raw SYN packet injection..
+- 🔸 **[Python TCP SYN Port Scanner](https://github.com/BrennoSantAnna/python-port-scanning)** – CLI tool for discrete network reconnaissance via raw SYN packet injection.
 <!--
 - 🔸 **[Network Defense Labs]()** – Packet captures, analysis notes, and event triage exercises.
 -->
