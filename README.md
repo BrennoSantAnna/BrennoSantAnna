@@ -60,9 +60,9 @@ I create Python automations for log parsing, IOC extraction, and basic threat in
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrennoSantAnna&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="Brenno's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrennoSantAnna&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&v=1" alt="Brenno's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoSantAnna&layout=compact&langs_count=8&theme=nightowl" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoSantAnna&layout=compact&langs_count=8&theme=nightowl&v=1" alt="Top Languages"/>
 </p>
 
 <div style="text-align: center; font-style: italic;">
