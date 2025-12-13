@@ -44,7 +44,6 @@ I create Python automations for log parsing, IOC extraction, and basic threat in
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking"/>
   <img src="https://img.shields.io/badge/Packet_Tracer-1C588A?style=for-the-badge&logo=ciscopackettracer&logoColor=white" alt="Packet Tracer"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/CyberOps_Associate-00B33A?style=for-the-badge&logo=cisco&logoColor=white" alt="CyberOps Associate"/>
 </p>
 
 ---
@@ -52,9 +51,7 @@ I create Python automations for log parsing, IOC extraction, and basic threat in
 ### 🧪 Security Projects
 - 🔸 **[Python File Integrity Checker](https://github.com/BrennoSantAnna/python-file-integrity-checker)** – SHA-256 tool for basic file integrity checking.
 - 🔸 **[Python TCP SYN Port Scanner](https://github.com/BrennoSantAnna/python-port-scanning)** – CLI tool for discrete network reconnaissance via raw SYN packet injection.
-<!--
-- 🔸 **[Network Defense Labs]()** – Packet captures, analysis notes, and event triage exercises.
--->
+- 🔸 **[Python Recon Scout](https://github.com/BrennoSantAnna/python-recon-scout)** – Automated CLI tool for efficient reconnaissance and target intelligence gathering.
 ---
 
 ### 📊 My GitHub Stats
