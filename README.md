@@ -1,7 +1,8 @@
 <div id="header" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>  <p>
-    I am a <strong>Computer Science</strong> student and currently work in the field of <strong>Information Technology</strong>, proving technical support and contributing to the migration of corporate systems.
-    I am interested in working in <strong>Technical Support</strong>, <strong>Network Administration</strong>, and <strong>IT Infrastructure</strong>, building a solid foundation to pursue a career in <strong>Cybersecurity</strong> in the future.
+    I'm the founder of <strong>BPS Tech & Security</strong>, where I perform security diagnostics and build automation tools for triage and hardening — serving small businesses and individual users. 
+    Alongside that, I'm a Computer Science student and currently work in IT, providing technical support and contributing to corporate systems infrastructure. 
+    I'm building a solid foundation in <strong>Network Administration</strong>, and <strong>IT Infrastructure</strong> to purse a career in <strong>Cybersecurity (Blue Team / SOC)</strong>.
     <br/>
   </p>
 
@@ -9,7 +10,7 @@
     <a href="https://www.linkedin.com/in/brennosantanna">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
     </a>
-    <a href="https://www.instagram.com/brennopsant/">
+    <a href="https://www.instagram.com/bpstechsecurity/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Profile"/>
     </a>
   </p>
